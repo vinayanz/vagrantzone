@@ -1,3 +1,4 @@
+
 # vagrantzone
 If you wish to create virtual machine, then run below command
 vagrant init "box name"
@@ -12,3 +13,8 @@ It will connect with VM.
 4. vagrant status
 5. vagrant reload
 6. vagrant destroy
+
+Main scenario is Port forwarding
+Memmory management 
+Proviosioning
+
